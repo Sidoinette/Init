@@ -11,8 +11,8 @@ import java.sql.Statement;
 public class DataBaseImpl implements DataBase{
     protected  String driver;
     protected  String url;
-    protected  String user="root";
-    protected  String password="";
+    protected  String user;
+    protected  String password;
     protected Connection connection =null;
     protected PreparedStatement ps;
 
