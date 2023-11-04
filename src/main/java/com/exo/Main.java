@@ -216,6 +216,10 @@ public class Main {
                     System.out.println("=======================================");
                     System.out.println("               RENDEZ-VOUS du JOUR");
                     System.out.println("=======================================");
+
+                    System.out.println("=======================================");
+                    System.out.println("               Ajout!!!!!");
+                    System.out.println("=======================================");
                     pause();
                     break;
                 default:
